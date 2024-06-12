@@ -121,7 +121,7 @@ export function Footer() {
               About
             </FooterLink>
             <FooterLink
-              to='https://www.miruro.com'
+              to='https://www.miruro.flaws.tech'
               target='_blank'
               title='Domains'
             >
@@ -136,13 +136,13 @@ export function Footer() {
           <Text as='p' $isSub={true}>
             &copy; {year}{' '}
             <a
-              href='https://www.miruro.com'
+              href='https://www.miruro.flaws.tech'
               rel='noopener noreferrer'
               style={{ color: 'grey' }}
             >
-              miruro.com
+              miruro.flaws.tech
             </a>{' '}
-            | Website Made by <strong>MIRURO</strong>
+            | Website Made by <strong>Siba | flawsom | vibes.him</strong>
           </Text>
           <nav aria-label='Social Links'>
             <SocialIconsWrapper>

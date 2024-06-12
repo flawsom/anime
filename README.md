@@ -17,7 +17,7 @@ MIRURO
 </p>
 
 <p align="center">
-  <a href="https://www.miruro.com" target="_blank">
+  <a href="https://www.miruro.flaws.tech" target="_blank">
     <img src="https://raw.githubusercontent.com/Miruro-no-kuon/Miruro/main/src/assets/miruro-transparent-white.png" alt="Logo" width="200"/>
   </a>
 </p>
@@ -36,7 +36,7 @@ MIRURO
 
 | Official Domains | Links                                      |
 | ---------------- | ------------------------------------------ |
-| Hub              | [miruro.com](https://www.miruro.com)       |
+| Hub              | [miruro.flaws.tech](https://www.miruro.flaws.tech)       |
 | TV               | [MIRURO](https://www.MIRURO)         |
 | Online           | [miruro.online](https://www.miruro.online) |
 
@@ -44,7 +44,7 @@ MIRURO
 
 ## What is Miruro?
 
-Welcome to **Miruro** - your ultimate anime destination! 🤯 Explore **[miruro.com](https://www.miruro.com)** and dive into the world of anime, powered by the incredible **[CONSUMET API](https://github.com/consumet)**.
+Welcome to **Miruro** - your ultimate anime destination! 🤯 Explore **[miruro.flaws.tech](https://www.miruro.flaws.tech)** and dive into the world of anime, powered by the incredible **[CONSUMET API](https://github.com/consumet)**.
 
 Crafted with using **React** and **Vite**, our site rocks a slick and modern interface. Experience lightning-fast performance and smooth navigation as you explore a vast collection of HD anime titles.
 
@@ -178,7 +178,7 @@ bun start
 
 ## License 📝
 
-This project is governed by a Custom BY-NC License. What does this entail? Simply put, you are permitted to utilize, distribute, and modify the code for non-commercial purposes. However, it is imperative that due credit is accorded to our platform, [miruro.com](https://www.miruro.com). Any commercial utilization of this code is strictly prohibited. For comprehensive details, please refer to the [LICENSE](LICENSE) file. Should you have inquiries or require special permissions, do not hesitate to contact us.
+This project is governed by a Custom BY-NC License. What does this entail? Simply put, you are permitted to utilize, distribute, and modify the code for non-commercial purposes. However, it is imperative that due credit is accorded to our platform, [miruro.flaws.tech](https://www.miruro.flaws.tech). Any commercial utilization of this code is strictly prohibited. For comprehensive details, please refer to the [LICENSE](LICENSE) file. Should you have inquiries or require special permissions, do not hesitate to contact us.
 
 ## Found a Bug? 🐞
 
@@ -188,7 +188,7 @@ Uh-oh, looks like you stumbled upon a bug? No worries, we're here to squash it! 
 
 Got questions, suggestions, or just wanna say hi? Drop us a line at <miruro@proton.me>. You can also hang out with us on Discord.
 
-- Visit our website at **[Miruro.com](https://www.miruro.com)**
+- Visit our website at **[miruro.flaws.tech](https://www.miruro.flaws.tech)**
 
 - Follow us on **[Twitter](https://twitter.com/miruro_official)**
 
