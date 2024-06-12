@@ -37,7 +37,7 @@ MIRURO
 | Official Domains | Links                                      |
 | ---------------- | ------------------------------------------ |
 | Hub              | [miruro.com](https://www.miruro.com)       |
-| TV               | [miruro.tv](https://www.miruro.tv)         |
+| TV               | [MIRURO](https://www.MIRURO)         |
 | Online           | [miruro.online](https://www.miruro.online) |
 
 </div>
