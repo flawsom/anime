@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { FaReddit, FaDiscord, FaTwitter, FaGithub } from 'react-icons/fa';
+import { FaReddit, FaDiscord, FaTwitter, FaGithub, FaInstagram, FaInstagram } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import { year } from '../../hooks/useTIme';
 
@@ -148,17 +148,17 @@ export function Footer() {
             <SocialIconsWrapper>
               {[
                 {
-                  href: 'https://www.reddit.com/r/miruro',
-                  Icon: FaReddit,
+                  href: 'https://www.instagram.com/vibes.him',
+                  Icon: FaInstagram,
                   label: 'Reddit',
                 },
                 {
-                  href: 'https://discord.gg/dubRrtfpFn',
+                  href: 'https://discordapp.com/users/459620783703195648',
                   Icon: FaDiscord,
                   label: 'Discord',
                 },
                 {
-                  href: 'https://twitter.com/miruro_official',
+                  href: 'https://twitter.com/vibes.him',
                   Icon: FaTwitter,
                   label: 'Twitter',
                 },
