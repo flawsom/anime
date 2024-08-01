@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { FaReddit, FaDiscord, FaTwitter, FaGithub, FaInstagram, FaInstagram } from 'react-icons/fa';
+import { FaReddit, FaDiscord, FaTwitter, FaGithub, FaInstagram } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import { year } from '../../hooks/useTIme';
 
@@ -121,7 +121,7 @@ export function Footer() {
               About
             </FooterLink>
             <FooterLink
-              to='https://www.miruro.flaws.tech'
+              to='https://www.bankai.flaws.tech'
               target='_blank'
               title='Domains'
             >
@@ -136,11 +136,11 @@ export function Footer() {
           <Text as='p' $isSub={true}>
             &copy; {year}{' '}
             <a
-              href='https://www.miruro.flaws.tech'
+              href='https://www.bankai.flaws.tech'
               rel='noopener noreferrer'
               style={{ color: 'grey' }}
             >
-              miruro.flaws.tech
+              bankai.flaws.tech
             </a>{' '}
             | Website Made by <strong>Siba | flawsom | vibes.him</strong>
           </Text>
@@ -168,7 +168,7 @@ export function Footer() {
                   href={href}
                   target='_blank'
                   rel='noopener noreferrer'
-                  aria-label={`Miruro on ${label}`}
+                  aria-label={`Bankai on ${label}`}
                 >
                   <Icon aria-hidden='true' />
                 </ShareButton>

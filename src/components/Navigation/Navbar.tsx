@@ -455,7 +455,7 @@ export const Navbar = () => {
         <NavbarWrapper>
           <TopContainer>
             <LogoImg
-              title='MIRURO'
+              title='BANKAI'
               to='/home'
               onClick={() => window.scrollTo(0, 0)}
             >

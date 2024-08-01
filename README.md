@@ -1,5 +1,5 @@
 <h1 align="center">
-MIRURO
+BANKAI
 </h1>
 
 <p align="center">
@@ -17,18 +17,18 @@ MIRURO
 </p>
 
 <p align="center">
-  <a href="https://www.miruro.flaws.tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/Miruro-no-kuon/Miruro/main/src/assets/miruro-transparent-white.png" alt="Logo" width="200"/>
+  <a href="https://www.bankai.flaws.tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/Bankai-no-kuon/Bankai/main/src/assets/bankai-transparent-white.png" alt="Logo" width="200"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Miruro-no-Kuon/Miruro/fork">
-    <img src="https://img.shields.io/github/forks/Miruro-no-Kuon/Miruro?style=social" alt="fork"/>
+  <a href="https://github.com/Bankai-no-Kuon/Bankai/fork">
+    <img src="https://img.shields.io/github/forks/Bankai-no-Kuon/Bankai?style=social" alt="fork"/>
   </a>
   <img src="https://discordapp.com/api/guilds/1199699127190167643/widget.png?style=shield" alt="Discord Shield"/>
-  <a href="https://github.com/Miruro-no-Kuon/Miruro">
-    <img src="https://img.shields.io/github/stars/Miruro-no-Kuon/Miruro?style=social" alt="stars"/>
+  <a href="https://github.com/Bankai-no-Kuon/Bankai">
+    <img src="https://img.shields.io/github/stars/Bankai-no-Kuon/Bankai?style=social" alt="stars"/>
   </a>
 </p>
 
@@ -36,15 +36,15 @@ MIRURO
 
 | Official Domains | Links                                      |
 | ---------------- | ------------------------------------------ |
-| Hub              | [miruro.flaws.tech](https://www.miruro.flaws.tech)       |
-| TV               | [MIRURO](https://www.MIRURO)         |
-| Online           | [miruro.online](https://www.miruro.online) |
+| Hub              | [bankai.flaws.tech](https://www.bankai.flaws.tech)       |
+| TV               | [BANKAI](https://www.BANKAI)         |
+| Online           | [bankai.online](https://www.bankai.online) |
 
 </div>
 
-## What is Miruro?
+## What is Bankai?
 
-Welcome to **Miruro** - your ultimate anime destination! 🤯 Explore **[miruro.flaws.tech](https://www.miruro.flaws.tech)** and dive into the world of anime, powered by the incredible **[CONSUMET API](https://github.com/consumet)**.
+Welcome to **Bankai** - your ultimate anime destination! 🤯 Explore **[bankai.flaws.tech](https://www.bankai.flaws.tech)** and dive into the world of anime, powered by the incredible **[CONSUMET API](https://github.com/consumet)**.
 
 Crafted with using **React** and **Vite**, our site rocks a slick and modern interface. Experience lightning-fast performance and smooth navigation as you explore a vast collection of HD anime titles.
 
@@ -82,13 +82,13 @@ Enjoy your favorite shows with English subs or dubs, and here's the kicker - you
 ## Images
 
 <div style="text-align: left;">
-  <img src="https://raw.githubusercontent.com/Miruro-no-kuon/.github/main/profile/home-page.webp" alt="Home Page" style="max-width: 70%;" >
+  <img src="https://raw.githubusercontent.com/Bankai-no-kuon/.github/main/profile/home-page.webp" alt="Home Page" style="max-width: 70%;" >
   <details>
   <summary>Screenshots [View More]</summary>
   <br>
-  <img src="https://raw.githubusercontent.com/Miruro-no-kuon/.github/main/profile/splash-page.webp" alt="Splash Page" style="max-width: 70%;">
-  <img src="https://raw.githubusercontent.com/Miruro-no-kuon/.github/main/profile/watch-page.webp" alt="Watch Page" style="max-width: 70%;">
-  <img src="https://raw.githubusercontent.com/Miruro-no-kuon/.github/main/profile/footer.webp" alt="Footer" style="max-width: 70%;">
+  <img src="https://raw.githubusercontent.com/Bankai-no-kuon/.github/main/profile/splash-page.webp" alt="Splash Page" style="max-width: 70%;">
+  <img src="https://raw.githubusercontent.com/Bankai-no-kuon/.github/main/profile/watch-page.webp" alt="Watch Page" style="max-width: 70%;">
+  <img src="https://raw.githubusercontent.com/Bankai-no-kuon/.github/main/profile/footer.webp" alt="Footer" style="max-width: 70%;">
   </details>
 </div>
 
@@ -97,11 +97,11 @@ Enjoy your favorite shows with English subs or dubs, and here's the kicker - you
 ### 1. Clone this repository using
 
 ```bash
-git clone https://github.com/Miruro-no-kuon/Miruro.git
+git clone https://github.com/Bankai-no-kuon/Bankai.git
 ```
 
 ```bash
-cd Miruro
+cd Bankai
 ```
 
 ### 2. Installation
@@ -178,29 +178,29 @@ bun start
 
 ## License 📝
 
-This project is governed by a Custom BY-NC License. What does this entail? Simply put, you are permitted to utilize, distribute, and modify the code for non-commercial purposes. However, it is imperative that due credit is accorded to our platform, [miruro.flaws.tech](https://www.miruro.flaws.tech). Any commercial utilization of this code is strictly prohibited. For comprehensive details, please refer to the [LICENSE](LICENSE) file. Should you have inquiries or require special permissions, do not hesitate to contact us.
+This project is governed by a Custom BY-NC License. What does this entail? Simply put, you are permitted to utilize, distribute, and modify the code for non-commercial purposes. However, it is imperative that due credit is accorded to our platform, [bankai.flaws.tech](https://www.bankai.flaws.tech). Any commercial utilization of this code is strictly prohibited. For comprehensive details, please refer to the [LICENSE](LICENSE) file. Should you have inquiries or require special permissions, do not hesitate to contact us.
 
 ## Found a Bug? 🐞
 
-Uh-oh, looks like you stumbled upon a bug? No worries, we're here to squash it! Just head over to our [**issues**](https://github.com/Miruro-no-kuon/Miruro-no-Kuon/issues) section on GitHub and let us know what's up.
+Uh-oh, looks like you stumbled upon a bug? No worries, we're here to squash it! Just head over to our [**issues**](https://github.com/Bankai-no-kuon/Bankai-no-Kuon/issues) section on GitHub and let us know what's up.
 
 ## Get in Touch! 📧
 
-Got questions, suggestions, or just wanna say hi? Drop us a line at <miruro@proton.me>. You can also hang out with us on Discord.
+Got questions, suggestions, or just wanna say hi? Drop us a line at <skillynoobs@gmail.com>. You can also hang out with us on Discord.
 
-- Visit our website at **[miruro.flaws.tech](https://www.miruro.flaws.tech)**
+- Visit our website at **[bankai.flaws.tech](https://www.bankai.flaws.tech)**
 
-- Follow us on **[Twitter](https://twitter.com/miruro_official)**
+- Follow us on **[Twitter](https://twitter.com/bankai_official)**
 
-- Join our **[Subreddit](https://www.reddit.com/r/miruro)**
+- Join our **[Subreddit](https://www.reddit.com/r/bankai)**
 
-- Join our **[Discord](https://discord.gg/miruro)**
+- Join our **[Discord](https://discord.gg/bankai)**
 
-[![Discord Banner 2](https://discordapp.com/api/guilds/1199699127190167643/widget.png?style=banner2)](https://discord.gg/miruro)
+[![Discord Banner 2](https://discordapp.com/api/guilds/1199699127190167643/widget.png?style=banner2)](https://discord.gg/bankai)
 
 ## Support & Contributions 🤲
 
-- 🌟 [**THIS PROJECT**](https://github.com/Miruro-no-kuon/Miruro)
+- 🌟 [**THIS PROJECT**](https://github.com/Bankai-no-kuon/Bankai)
 
 #### Want to Help Out?
 
@@ -208,4 +208,4 @@ Feel free to contribute to this project! Whether you're an experienced developer
 
 ## Star History 📈
 
-[![Stargazers over time](https://starchart.cc/Miruro-no-kuon/Miruro.svg?variant=adaptive)](https://starchart.cc/Miruro-no-kuon/Miruro)
+[![Stargazers over time](https://starchart.cc/Bankai-no-kuon/Bankai.svg?variant=adaptive)](https://starchart.cc/Bankai-no-kuon/Bankai)
